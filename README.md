@@ -1,5 +1,5 @@
 # Ring-A-Bell! How Reliable are Concept Removal Methods For Diffusion Models?
-This is the repository that contains source code for the Ring-A-Bell website.
+This is the repository that contains source code for the [Ring-A-Bell website]( https://chiayi-hsu.github.io/ringabell.github.io/).
 If you find Ring-A-Bell useful for your work please kindfully cite:
 
 > [!NOTE]
